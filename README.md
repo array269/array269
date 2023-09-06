@@ -1,8 +1,6 @@
 <img 
 src="banner.png" alt="альтернативный текст">
 
-### Hi there 👋
-
 <!--
 **array269/array269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
